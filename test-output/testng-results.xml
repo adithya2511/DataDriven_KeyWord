@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-17T08:00:12Z" name="Default suite" finished-at="2023-02-17T08:00:18Z" duration-ms="6156">
+    <groups>
+    </groups>
+    <test started-at="2023-02-17T08:00:12Z" name="Default test" finished-at="2023-02-17T08:00:18Z" duration-ms="6156">
+      <class name="com.dd.keywor.test.LoginTest">
+        <test-method signature="loginTest()[pri:0, instance:com.dd.keywor.test.LoginTest@3d246ea3]" started-at="2023-02-17T13:30:12Z" name="loginTest" finished-at="2023-02-17T13:30:18Z" duration-ms="6119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.dd.keywor.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
